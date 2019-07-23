@@ -1,0 +1,17 @@
+/* cheat-sheet.css */
+/* body is a selector to change the style of the body section on an html */
+body {
+	background-color: lightblue; /* background is a properyty change the background color and light blue is the property value */
+	/* there are are 140 */
+}
+/* heading is a class selactor that can be applied to several elements on my html page color property is to change text color*/
+.heading {
+	color: rgb(36, 8, 61);
+}
+/* my paragraph is an id selector than has styling that applies only to one tag on my html. The tag id sould be the same as this selector */
+#my_paragraph {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	text-decoration:underline;
+}

@@ -1,0 +1,27 @@
+/*main.css aka the STYLE*/
+	/* use google fonts to add a font make it readable too */
+	body {
+		background-color: rgb(255,254,244);
+		font-family: 'Crimson Text', serif;
+	}
+
+	h2   {
+		color:rgb(25,0,77);
+	}
+
+	a {
+	text-decoration: none;
+	}
+
+	ol {
+		color: rgb(25,0,77)
+	}
+	#my_nav_bar {
+		border-style: double;
+		border-color: rgb(60, 9, 79);
+		border-radius: 10px;
+		border-width: 7px;
+		background-color:rgb(242, 252, 255);
+		color: 
+	}
+	nav {color: rgb(14, 39, 46);}
