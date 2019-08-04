@@ -24,9 +24,11 @@
 		background-color:rgb(242, 252, 255);
 		color: 
 	}
+@media only screen and (max-width: 600px){
 	#img-float {
 		float: left;
 		margin:20px;
+		width: 300px;
 	}
 	.p-class{
 		margin: 25px;
@@ -38,7 +40,9 @@
 		border-color: rgb(189, 214, 255);
 		border-radius: 15px;
 		background-color: rgb(240, 255, 254); 
+		overflow: auto;
 	}
 	#h3 {
 		text-align: center;
 	}
+}
